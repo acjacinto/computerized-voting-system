@@ -21,9 +21,6 @@ The voting module will be installed in the computer laboratories; computer units
 - Voting System Canvass and Winners Report
 - Voting System Casting of Votes Module
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-
 ## Tech
 
 Computerized Voting System uses a number of softwares/free softwares to work properly:
