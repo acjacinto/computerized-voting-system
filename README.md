@@ -1,5 +1,5 @@
 # Computerized Voting System
-## _A Simple Voting System made with Visual Basic 6_
+## _A Simple Voting System made with Visual Basic 6.0_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/acjacinto/computerized-voting-system)
 
