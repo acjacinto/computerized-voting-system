@@ -33,7 +33,7 @@ Computerized Voting System uses a number of softwares/free softwares to work pro
 
 ## DEMO
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ku0Vlh8GLOw/0.jpg)](https://www.youtube.com/watch?v=ku0Vlh8GLOw&t=222s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mJJ0vutEDTg/0.jpg)](https://www.youtube.com/watch?v=mJJ0vutEDTg)
 
 
 
