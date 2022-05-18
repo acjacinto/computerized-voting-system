@@ -20,6 +20,7 @@ The voting module will be installed in the computer laboratories; computer units
 - Voting System Student Masterlist Report 
 - Voting System Canvass and Winners Report
 - Voting System Casting of Votes Module
+- Printing of Result
 
 ## Tech
 
