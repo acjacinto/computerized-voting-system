@@ -34,11 +34,15 @@ Computerized Voting System uses a number of softwares/free softwares to work pro
 
 ![project4-2](https://user-images.githubusercontent.com/36821798/176839769-6aa4a5c5-434e-4940-85c0-9d00dd2f2d1e.jpg)
 
+![project4-1](https://user-images.githubusercontent.com/36821798/176839871-8105d1a6-f58b-4995-b390-8e131a4690fb.jpg)
+
 
 ## DEMO
+<div align="center">
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mJJ0vutEDTg/0.jpg)](https://www.youtube.com/watch?v=mJJ0vutEDTg)
 
+</div>
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
