@@ -32,6 +32,9 @@ Computerized Voting System uses a number of softwares/free softwares to work pro
 - [PhotoshopCS6](https://www.adobe.com/sea/products/photoshop.html) - An innovative photo editing software.
 
 
+![project4-2](https://user-images.githubusercontent.com/36821798/176839769-6aa4a5c5-434e-4940-85c0-9d00dd2f2d1e.jpg)
+
+
 ## DEMO
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mJJ0vutEDTg/0.jpg)](https://www.youtube.com/watch?v=mJJ0vutEDTg)
